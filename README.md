@@ -98,11 +98,11 @@ Bootstrap 3.0 / jQuery 1.10.1 / Fontawesome 3.2.1 / normalize.css 2.1.3 / modern
 
 This set of frameworks are *usually* backwards compatible and upgrading to a newer version of a framework. 
 
-Bootstrap: Release notes at http://blog.getbootstrap.com/
-jQuery: http://blog.jquery.com/2013/07/03/jquery-1-10-2-and-2-0-3-released/
-font awesome: http://fontawesome.io/whats-new/
-normalize: https://github.com/necolas/normalize.css/
-modernizr: http://modernizr.com/download/
++ Bootstrap: Release notes at http://blog.getbootstrap.com/
++ jQuery: http://blog.jquery.com/2013/07/03/jquery-1-10-2-and-2-0-3-released/
++ font awesome: http://fontawesome.io/whats-new/
++ normalize: https://github.com/necolas/normalize.css/
++ modernizr: http://modernizr.com/download/
 
 These are all actively developed frameworks and JS libraries, and major updates to mobile web extensions should be made when release notes mention that there are deprecations or major feature changes to the libraries. For example, Bootstrap 3.0 changes many CSS classes cause updating the CSS/JS without replacing the HTML <div> tags will cause a website to break. Changes like this will not happen often. 
 
