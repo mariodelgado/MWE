@@ -120,12 +120,12 @@ The menu structure is a fork of https://github.com/christophery/pushy, and the u
 Tablet support: though all of these frameworks support responsive layouts, it is the responsibility of the client to take care of their content layout. Clients should try to adhere to http://getbootstrap.com/css/#grid grid guidelines to optimize display on multiple devices. 
 
 
-Support of News and Events
+Support of News and Events:
 Though we do not want to replicate things that are already offered as part of our native module selection, many currently existing mobile web modules implemented do contain a news/events feed functionality that allows you to drill deeper into a MW app. If a client does request functionality, we have tried using the zRSSfeed jquery plugin, which is a very simple code injection that allows you to load rss feed entries. This is not supported, and has many dependencies, including a google feeds API that has the potential to be deprecated. 
 
 
 
-Finding a counselor (admissions only)
+Finding a counselor (admissions only):
 Apps made by other companies like Straxis offer an admissions module that allows you to find a counselor. Because this uses many native API and SDK integrations, many of these functions (geolocation, larger database work, etc.) is not possible or very hard to do through a mobile web extension. We should advise our clients to rethink how they want to present information like counselor information and point them towards a more static presentation model. 
 
 
