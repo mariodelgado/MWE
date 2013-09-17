@@ -96,7 +96,7 @@ Bootstrap 3.0 / jQuery 1.10.1 / Fontawesome 3.2.1 / normalize.css 2.1.3 / modern
 
 
 
-This set of frameworks are *usually* backwards compatible and upgrading to a newer version of a framework. 
+This set of frameworks are *usually* backwards compatible when upgrading to a newer version of a framework. 
 
 + Bootstrap: Release notes at http://blog.getbootstrap.com/
 + jQuery: http://blog.jquery.com/2013/07/03/jquery-1-10-2-and-2-0-3-released/
